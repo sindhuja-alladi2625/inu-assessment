@@ -1,0 +1,5 @@
+com/inu/service/TaskService.class
+com/inu/controller/TaskController.class
+com/inu/entity/Task.class
+com/inu/TaskManagementApplication.class
+com/inu/repository/TaskRepository.class
